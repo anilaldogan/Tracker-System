@@ -18,9 +18,10 @@ Bootstrap, W3Schools Web Tutorial
 <script src="https://maps.googleapis.com/maps/api/js?key=.........................&callback=initMap&libraries=drawing,visualization&v=weekly" defer></script>
 
 # Web Servis ile GPRS Verisi Hakkında
-"WebService1.asmx" dosyasında göreceğiniz fonksiyon GPRS verilerinin projemize giriş noktasıdır. Elimizde bir cihaz olmaması sebebiyle bir simülasyon ortamı oluşturmak istedik bu sebeple "gps_device" dosyası içerisindeki konsol uygulamasını web projesi localhost da koşarken çalıştırarak real time veri aktarımı gerçekleştirebilirsiniz.
+"WebService1.asmx" dosyasında göreceğiniz fonksiyon GPRS verilerinin projemize giriş noktasıdır. Elimizde bir cihaz olmaması sebebiyle bir simülasyon ortamı oluşturmak istedik bu sebeple "gps_device" dosyası içerisindeki konsol uygulamasını web projesi localhost da koşarken çalıştırarak real time veri aktarımı gerçekleştirebilirsiniz. "WebService1.asmx" içeriğinde cache işlemleri de bulunmaktadır. Bu proje kapsamında veri tabanı sorguları en aza indirgenip zaman gecikmesinde optimuma ulaşılmak istenmiştir. Bu sebeple ön bellek temel çalışma alanımız olacaktır. Projenin kapsamını arttırmak istersek async programlamada yapılabilir.
 
 # Proje üzerindeki yeni eklentiler:
 Projede map ve veri kullanışlığını arttırmak amacıyla harita üzerinde sınırlar, şekiller, alan ve çap belirleme gibi kullanıcı etkileşimli yeni bir modül oluşturulma aşamasındayım. Bu sistemde Martı Tech firmasının Martı teknolojisi mobil arayüzündeki sınırlandırmalar ve yasak bölgelerin belirlenmesi gibi çözümler örnek alınabilir.
 
-# Bu proje hobi ve teknoloji keşfi amacıyla oluşturulmuştur, hatalarım ve eksiklerim olabilir, lütfen düşünceleriniz ve geri bildirimleriniz için benimle iletişime geçin: muh.anilaldogan@gmail.com
+# Bu proje hobi ve teknoloji keşfi amacıyla oluşturulmuştur, hatalarım ve eksiklerim olabilir, lütfen düşünceleriniz ve geri bildirimleriniz için benimle iletişime geçin:
+muh.anilaldogan@gmail.com
