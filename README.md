@@ -1,5 +1,6 @@
 # Tracker-System
 ASP.NET MVC-Google Map API
+
 Bu proje kapsamlı bir projedir bu sebeple daha ayrıntılı bilgi için benimle iletişime geçebilirsiniz: muh.anilaldogan@gmail.com
 Son zamanların ve geleceğin ürünlerine bakış açımı geliştirmek için IoT projelerine ilgim artmış durumda. Peki IoT nedir? Internet Of Things (nesnelerin interneti) olarak da bilİnen, belirli bir haberleşme protokolü ile cihazların birbirleriyle haberleşmesi, veri paylaşması işlemleri gerçekleştirilen bir ağ-cihaz sistemidir. Bir IoT ekosistemi oluşturmak planlı ve kapsamlı bir çalıştırma gerektirir. Bu sebeple, olay kurgusunun ayrıntılı düşünülmüş olması önceliğimizdir. 
 
